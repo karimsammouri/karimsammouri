@@ -132,16 +132,42 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <h4>5️⃣ Fall Semester 2021-2022</h4>
 <details>
   <summary>CSE 381: Systems II</summary>
+  
+  - Learned to carry out the key steps in loading and starting an operating system.
+  - Learned to critique the design and tradeoffs in file systems and computer memory hierarchy and their interfaces.
+  - Learned to use multiprocessing and Inter-Process Communication (IPC) concepts and tools, including pipes to monitor and control processes.
+  - Learned to use concurrency and multithreaded programming concepts to create processes with multiple cooperating threads in ways that avoid deadlock.
+  - Learned to use virtualization and cloud services.
+  - Learned to use various security features provided by an operating system to avoid common security problems such as buffer overflow, stack smashing, trojans, and root kit problems.
 </details>
 <details>
   <summary>CSE 383: Web Application Programming</summary>
+  
+  - Learned technologies needed to implement web applications, including HTML, CSS, JavaScript, and AJAX.
+  - Learned the nature of web applications, frameworks, and various architectures, including the role of the client and backend servers, and how they interrelate.
+  - Learned to create interactive web applications using forms and other user input methods to gather and present data.
+  - Learned to develop responsive web applications.
+  - Learned concepts related to using databases.
+  - Learned concepts of MVC and templating in the creation of web applications.
+  - Learned to describe and implement error handling conditions as they relate to network programming.
 </details>
 <h4>6️⃣ Spring Semester 2021-2022</h4>
 <details>
   <summary>CSE 385: Database Systems</summary>
+  
+  - Learned the file structures that are used by Relational Database Management Systems (RDMS).
+  - Learned the basic concepts of database systems such as entity sets and relationship sets.
+  - Learned to utilize SQL to query a database.
+  - Learned the syntax and semantics of SQL statements.
+  - Learned to use views in relational systems.
+  - Learned to utilize a commercial relational database management system that supports SQL (SQL Server).
+  - Learned to design a relational database using entity-relationship modeling and diagrams.
+  - Learned the concept of normalization in database design.
 </details>
 <details>
   <summary>CSE 465: Comparative Programming Languages</summary>
+  
+  
 </details>
 <h4>7️⃣ Fall Semester 2022-2023</h4>
 <details>
