@@ -236,15 +236,23 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <h2>🪪 Professional Certifications</h2>
 <details>
   <summary>Harvard’s CS50: Introduction to Computer Science</summary>
-</details>
-<details>
-  <summary>LinkedIn Learning Java 11+ Essential Training </summary>
-</details>
-<details>
-  <summary>Miami University’s Farmer School of Business miniMBA</summary>
+  
+  - Multiple programmers recommended I enroll in this online course before going to college. Unfotunately, I came to Miami before I got the chance to finish the course. For the sake of completion, I finished the course during the winter break on January 2022. The course did a fantastic job explaining the fundamentals of problem-solving, programming, and computing in general. The course touched on eleven topics that were covered a week each: problem solving, C, arrays, algorithms, memory, data structures, python, SQL, web application programming, flask, and ethics. Every week's lecture, except the last, had a corresponding problem set, and the course culminated with a final project.
 </details>
 <details>
   <summary>AT&T Summer Learning Academy</summary>
+  
+  - I had the opportunity to participate in AT&T's 2021 Summer Learning Academy, where I experienced eighty total hours of intensive online programming around personal and career development, business, and technology topics. Established personalities such as Troy Aikman, Kelly Decker, and Matt Luhn were present. I received my certification on August 2021.
+</details>
+<details>
+  <summary>Miami University’s Farmer School of Business miniMBA</summary>
+  
+  - I had the opportunity to enroll in Miami's Farmer School of Business miniMBA program when it first launched in 2021. As a computer science major, I gained insight on a wide range of business topics from supply chain and business strategy to entrepreneurship and creative thinking. I recieved the miniMBA on January 2021.
+</details>
+<details>
+  <summary>LinkedIn Learning Java 11+ Essential Training </summary>
+  
+  - After receiving a free one-month trial for LinkedIn Learning my freshman year at Miami, I tried to maximize the opportunity. This course caught my eye as I had just finished CSE 271: Object-Oriented Programming and thought it would be a good Java refresher. I received my certification on June 2020.
 </details>
 
 <h2>🤝🏼 Let's connect</h2>
