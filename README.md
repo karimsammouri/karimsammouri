@@ -3,17 +3,16 @@
 <h2>👨🏻‍💻 Featured Projects</h2>
 
 <h2>🙋🏻‍♂️ About Me</h2>
-<img src="https://i.insider.com/5d3ac96e8d664203f053b222?width=700" alt="Saudi Arabia's capital" height="250">
 <p>
-Born December 21, 2001 in the capital of Saudi Arabia, I grew up in a diverse household. My father moved to Saudi with his parents from Lebanon when he was eight. My mother traveled to Saudi from the Philippines during her thirties to meet the high-demand for licensed nurses. Growing up, I attended “international” institutions from kindergarten to high school. It was the norm to have over ten nationalities represented in every classroom. As I grew older and more globally aware, I realized how privileged I was to have such a relatively unique and dynamic upbringing. My life required me to work with diversity and adapt to change, preparing me for a diverse and dynamic world.
+Born December 21, 2001 in the capital of Saudi Arabia, I had a diverse upbringing. My father moved to Saudi from Lebanon when he was eight. My mother traveled to Saudi from the Philippines after obtaining her nursing degree to meet the demand for nurses in Saudi. Growing up, I attended private international institutions from kindergarten to high school. It was the norm to have over ten nationalities represented in every class. As I grew more globally aware, I realized how privileged I was to have had such a dynamic upbringing. My life required me to work with diversity and adapt to change, preparing me for a globalized and dynamic world.
 
-A stickler for modernity, my father bought me my first computer when I was around eight. My life quickly revolved around my computer. Growing up in the heart of authoritarian and ultra-conservative Arabia, computers felt like a portal to a limitless world. Although I lived gratefully through privileged means, my family and I always felt like my potential was limited back home.
+To stop me from using his work laptop to play games, my father bought me a Toshiba laptop when I was eight, and my life quickly revolved around my computer. Growing up in the heart of ultra-conservative Arabia, computers felt like portals to a limitless world. Although I lived gratefully through privileged means, my family and I always felt like my potential was limited back home.
 
-I took the American-based SAT during my senior year. After I scored in the 99th percentile with a score of 1540/1600, I applied to America’s top colleges. Reading my letter of acceptance including my full-tuition scholarship offer to attend Miami University of Ohio, I knew something big was ahead. Adjusting to the new people, culture, language, etiquettes, and the American way of life upon coming to America was almost effortless. My upbringing prepared me for it. And here I am now.
+I took the American-based SAT during my senior year. After I scored in the 99th percentile with a score of 1540/1600, I applied to America’s top colleges. Reading my acceptance letter and full-tuition scholarship offer to attend Miami University of Ohio, I knew something big was ahead. Adjusting to the new people, culture, language, etiquettes, and the American way of life upon coming to America was almost effortless. My upbringing prepared me for it, and here I am now.
 </p>
 
 <h2>🎓 Education</h2>
-<img src="http://miamioh.edu/_files/images/about-miami/banner-images/sundial-maccracken.jpg" alt="Miami University's MacCracken Hall" height="250">
+<img src="https://github.com/karimsammouri/karimsammouri/blob/main/MiamiLogo.png" alt="Miami University">
 <h3>Bachelor of Science (B.S.) in Computer Science</h3>
 <p>
 Miami University is a public research university in Oxford, Ohio. The university was founded in 1809, making it the second-oldest university in Ohio and the 10th oldest public university in the 
@@ -34,7 +33,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned the essential skills necessary for success in teamwork and communication.
 </details>
 <details>
-  <summary>CSE 174: Fundamentals of Programming and Problem-Solving</summary>
+  <summary>CSE 174: Fundamentals of Programming and Problem Solving</summary>
   
   - Learned fundamental programming concepts such as language syntax and semantics, variable scope, data representation, formatting conventions, and Integrated Development Environments (IDEs).
   - Learned the fundamentals of Java and the process from source code to executable code, including the roles of the Java Compiler and the Java Virtual Machine (JVM).
@@ -71,7 +70,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
 </details>
 <h4>3️⃣ Fall Semester 2020-2021</h4>
 <details>
-  <summary>CSE 262: Tech, Ethics, and Global Society</summary>
+  <summary>CSE 262: Technology, Ethics, and Global Society</summary>
   
   - Learned to formulate and defend a position on an ethical question related to technology, including applying ethical theories such as Kantianism, Utilitarianism, and Social Contract Theory.
   - Explored the ethical challenges currently posed  by technology, such as digital rights management, community standards, databases of personal data, fair use, freedom of expression, monitoring, technological determinism, unsafe software, and globalization.
@@ -206,42 +205,49 @@ Further, Miami was ranked second nationally among public universities in "Underg
   <summary>CSE 448: Senior Design Project</summary>
   
   - Learned to solve an open-ended problem as part of a team utilizing software engineering tools and methods.
-- Learned to develop the necessary written and oral communication skills needed to communicate effectively with both technical and non-technical audiences.
-- Learned to perform various roles as part of a team.
-- Learned to apply engineering ethics and professionalism in project management.
+  - Learned to develop the necessary written and oral communication skills needed to communicate effectively with both technical and non-technical audiences.
+  - Learned to perform various roles as part of a team.
+  - Learned to apply engineering ethics and professionalism in project management.
 </details>
 <details>
-  <summary>CSE 470G: Cloud Computing and Development Operations</summary>
+  <summary>CSE 470G: Cloud Computing and DevOps</summary>
   
   - Learned the definition, scope, and objective of DevOps.
-- Learned fundamental DevOps concepts, including virtualization, containerization, and continuous integration (CI).
-- Learned to use DevOps automation tools such as Bash scripts, Docker, GitLab CI/CD, Ansible, Nagios, Puppet, and Terraform.
-- Learned to use cloud computing platforms such as AWS and OpenStack.
+  - Learned fundamental DevOps concepts, including virtualization, containerization, and continuous integration (CI).
+  - Learned to use DevOps automation tools such as Bash scripts, Docker, GitLab CI/CD, Ansible, Nagios, Puppet, and Terraform.
+  - Learned to use cloud computing platforms such as AWS and OpenStack.
 </details>
 <h4>8️⃣ Spring Semester 2022-2023</h4>
-<p><i>[In progress]</i></p>
 <details>
   <summary>CSE 321: Software Quality Assurance</summary>
+  
+  <p><i>[In progress]</i></p>
 </details>
 <details>
   <summary>CSE 386: Foundations of Graphics</summary>
+  
+  <p><i>[In progress]</i></p>
 </details>
 <details>
   <summary>CSE 449: Senior Design Project</summary>
+  
+  <p><i>[In progress]</i></p>
 </details>
 <details>
   <summary>CSE 470N: Quantum Computing</summary>
+  
+  <p><i>[In progress]</i></p>
 </details>
 
-<h2>🪪 Professional Certifications</h2>
+<h2>🪪 Certifications</h2>
 <details>
   <summary>Harvard’s CS50: Introduction to Computer Science</summary>
   
   https://certificates.cs50.io/57c45c7d-ba2a-4dd3-bbc8-5196be365638.pdf?size=letter
-  - Multiple programmers recommended I enroll in this online course before going to college. Unfotunately, I came to Miami before I got the chance to finish the course. For the sake of completion, I finished the course during the winter break on January 2022. The course did a fantastic job explaining the fundamentals of problem-solving, programming, and computing in general. The course touched on eleven topics that were covered a week each: problem solving, C, arrays, algorithms, memory, data structures, python, SQL, web application programming, flask, and ethics. Every week's lecture, except the last, had a corresponding problem set, and the course culminated with a final project.
+  - Due to the course's quality and reviews, multiple programmers recommended I enroll in this online introductory computer science course before coming to college. I started the course but didn't have enough time to finish before coming to Miami. For completion's sake, I finished the course during the winter break of January 2022. The course did a fantastic job explaining the fundamentals of problem solving, programming, and computing in general. The course touched on eleven topics that were covered a week each: problem solving, C, arrays, algorithms, memory, data structures, Python, SQL, web application programming, Flask, and ethics. Every week's lecture, except the last, had a corresponding problem set, and the course culminated with a final project.
 </details>
 <details>
-  <summary>AT&T Summer Learning Academy</summary>
+  <summary>AT&T's Business Summer Learning Academy</summary>
   
   https://www.credly.com/badges/b8baa00f-5a6e-466d-8c2c-3e9abc9967d9?source=linked_in_profile
   - I had the opportunity to participate in AT&T's 2021 Summer Learning Academy, where I experienced eighty total hours of intensive online programming around personal and career development, business, and technology topics. Established personalities such as Troy Aikman, Kelly Decker, and Matt Luhn were present. I received my certification on August 2021.
@@ -250,13 +256,13 @@ Further, Miami was ranked second nationally among public universities in "Underg
   <summary>Miami University’s Farmer School of Business miniMBA</summary>
   
   https://certs.professionaled.miamioh.edu/06c4e2c9-233c-4e33-97b2-68b902b53b25#gs.jmsajt
-  - I had the opportunity to enroll in Miami's Farmer School of Business miniMBA program when it first launched in 2021. As a computer science major, I gained insight on a wide range of business topics from supply chain and business strategy to entrepreneurship and creative thinking. I recieved the miniMBA on January 2021.
+  - I had the opportunity to enroll in Miami's Farmer School of Business miniMBA program when it first launched in 2021. As a computer science major, I gained insight on a wide range of business topics from supply chain and business strategy to entrepreneurship and creative thinking. I recieved my miniMBA on January 2021.
 </details>
 <details>
   <summary>LinkedIn Learning Java 11+ Essential Training </summary>
   
   https://www.linkedin.com/learning/certificates/1f8eebe96b3e0686f92730367a13d07b74c9d64478ac57852cc5fd3d3a7be513
-  - After receiving a free one-month trial for LinkedIn Learning my freshman year at Miami, I tried to maximize the opportunity. This course caught my eye as I had just finished CSE 271: Object-Oriented Programming and thought it would be a good Java refresher. I received my certification on June 2020.
+  - After receiving a free one-month trial on LinkedIn Learning my freshman year at Miami, I tried to maximize the opportunity. This course caught my eye as I had just finished CSE 271: Object-Oriented Programming and thought it would be a good Java refresher. I received my certification on June 2020.
 </details>
 
 <h2>🤝🏼 Let's connect</h2>
