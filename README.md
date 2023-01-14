@@ -267,9 +267,9 @@ Further, Miami was ranked second nationally among public universities in "Underg
 
 <h2>🤝🏼 Let's connect</h2>
 <p>
-Personal website: <a href="https://karimsammouri.com/">karimsammouri.com</a>
+Personal website: <a href="https://karimsammouri.com/" target="_blank">karimsammouri.com</a>
 
-LinkedIn: <a href="https://www.linkedin.com/in/karimsammouri/">linkedin.com/in/karimsammouri</a>
+LinkedIn: <a href="https://www.linkedin.com/in/karimsammouri/" target="_blank">linkedin.com/in/karimsammouri</a>
 
 Email: <a href="karimsammouri@gmail.com">karimsammouri@gmail.com</a>
 </p>
