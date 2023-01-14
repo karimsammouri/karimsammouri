@@ -243,33 +243,33 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <details>
   <summary>Harvard’s CS50: Introduction to Computer Science</summary>
   
-  https://certificates.cs50.io/57c45c7d-ba2a-4dd3-bbc8-5196be365638.pdf?size=letter
+  - <a href="https://certificates.cs50.io/57c45c7d-ba2a-4dd3-bbc8-5196be365638.pdf?size=letter">View certificate</a>
   - Due to the course's quality and reviews, multiple programmers recommended I enroll in this online introductory computer science course before coming to college. I started the course but didn't have enough time to finish before coming to Miami. For completion's sake, I finished the course during the winter break of January 2022. The course did a fantastic job explaining the fundamentals of problem solving, programming, and computing in general. The course touched on eleven topics that were covered a week each: problem solving, C, arrays, algorithms, memory, data structures, Python, SQL, web application programming, Flask, and ethics. Every week's lecture, except the last, had a corresponding problem set, and the course culminated with a final project.
 </details>
 <details>
   <summary>AT&T's Business Summer Learning Academy</summary>
   
-  https://www.credly.com/badges/b8baa00f-5a6e-466d-8c2c-3e9abc9967d9?source=linked_in_profile
+  - <a href="https://www.credly.com/badges/b8baa00f-5a6e-466d-8c2c-3e9abc9967d9?source=linked_in_profile">View certificate</a>
   - I had the opportunity to participate in AT&T's 2021 Summer Learning Academy, where I experienced eighty total hours of intensive online programming around personal and career development, business, and technology topics. Established personalities such as Troy Aikman, Kelly Decker, and Matt Luhn were present. I received my certification on August 2021.
 </details>
 <details>
   <summary>Miami University’s Farmer School of Business miniMBA</summary>
   
-  https://certs.professionaled.miamioh.edu/06c4e2c9-233c-4e33-97b2-68b902b53b25#gs.jmsajt
+  - <a href="https://certs.professionaled.miamioh.edu/06c4e2c9-233c-4e33-97b2-68b902b53b25#gs.jmsajt">View certificate</a>
   - I had the opportunity to enroll in Miami's Farmer School of Business miniMBA program when it first launched in 2021. As a computer science major, I gained insight on a wide range of business topics from supply chain and business strategy to entrepreneurship and creative thinking. I recieved my miniMBA on January 2021.
 </details>
 <details>
   <summary>LinkedIn Learning Java 11+ Essential Training </summary>
   
-  https://www.linkedin.com/learning/certificates/1f8eebe96b3e0686f92730367a13d07b74c9d64478ac57852cc5fd3d3a7be513
+  - <a href="https://www.linkedin.com/learning/certificates/1f8eebe96b3e0686f92730367a13d07b74c9d64478ac57852cc5fd3d3a7be513">View certificate</a>
   - After receiving a free one-month trial on LinkedIn Learning my freshman year at Miami, I tried to maximize the opportunity. This course caught my eye as I had just finished CSE 271: Object-Oriented Programming and thought it would be a good Java refresher. I received my certification on June 2020.
 </details>
 
 <h2>🤝🏼 Let's connect</h2>
 <p>
-Personal website: <a href="https://karimsammouri.com/" target="_blank">karimsammouri.com</a>
+Personal website: <a href="https://karimsammouri.com/">karimsammouri.com</a>
 
-LinkedIn: <a href="https://www.linkedin.com/in/karimsammouri/" target="_blank">linkedin.com/in/karimsammouri</a>
+LinkedIn: <a href="https://www.linkedin.com/in/karimsammouri/">linkedin.com/in/karimsammouri</a>
 
 Email: <a href="karimsammouri@gmail.com">karimsammouri@gmail.com</a>
 </p>
