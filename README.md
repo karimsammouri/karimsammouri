@@ -36,7 +36,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <details>
   <summary>CSE 174: Fundamentals of Programming and Problem Solving</summary>
   
-  - <a href="https://github.com/karimsammouri/MU-CSE-174">View notable course projects</a>
+  - <a href="https://github.com/karimsammouri/MU-CSE-174">View course projects</a>
   - Learned fundamental programming concepts such as language syntax and semantics, variable scope, data representation, formatting conventions, and Integrated Development Environments (IDEs).
   - Learned the fundamentals of Java and the process from source code to executable code, including the roles of the Java Compiler and the Java Virtual Machine (JVM).
   - Learned to implement clean and robust programs that solve a stated problem, including using appropriate Java primitive data types, operators, methods, conditionals, loops, input, output, collections, and third-party classes.
