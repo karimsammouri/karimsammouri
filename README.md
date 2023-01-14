@@ -107,48 +107,48 @@ Further, Miami was ranked second nationally among public universities in "Underg
   <summary>CSE 201: Intro to Software Engineering</summary>
   
   - Learned to apply an object-oriented analysis and design approach to case studies.
-  - Learned to describe the software development lifecycle and its associated processes, the different phases, and the relationships between the phases.
-  - Learned to describe and compare alternative software processes, including waterfall, incremental, spiral, prototyping, empirical, and agile methods.
-  - Learned the different roles and responsibilities that make up a software team.
+  - Learned to describe the software development lifecycle (SDLC) and its associated processes, the different phases, and the relationships between the phases.
+  - Learned to describe and compare alternative software processes such as waterfall, incremental, spiral, prototyping, empirical, and agile methods.
+  - Learned the different roles that make up a software team and the responsibilities of each.
   - Learned to develop clear, concise, and formal lifecycle artifacts, including requirements, design, implementation, and test documentation for software systems based on user and stakeholder needs.
-  - Learned to create UML use case, class, and sequence diagrams
-  - Learned the importance of construction technologies such as version control.
-  - Learned fundamental design principles, including coupling, cohesion, and portability.
-  - Learned the concept of design patterns and common examples.
-  - Learned to apply the software development cycle as part of a team.
+  - Learned to create UML use case, class, and sequence diagrams.
+  - Learned the importance of technologies such as version control in the software development lifecycle.
+  - Learned fundamental design principles such as coupling, cohesion, and portability.
+  - Learned the concept of design patterns and explored examples.
+  - Learned to apply the software development lifecycle as part of a team.
   - Learned to effectively present design artifacts.
-  - Learned various testing and quality assurance strategies, including validation and verification, and different levels of testing (unit, integration, systems, acceptance, regression, black box, white box).
+  - Learned various testing and quality assurance strategies, including validation and verification, and different levels of testing such as unit, integration, systems, acceptance, regression, black box, and white box testing.
 </details>
 <details>
   <summary>CSE 374: Algorithms I</summary>
   
   - Learned to characterize the runtime and storage requirements of a proposed algorithm or data structure.
   - Learned to determine the time and space complexity of algorithms.
-  - Learned the formal definitions of Ο, Θ, and Ω and how these describe the amount of work done by an algorithm.
+  - Learned the formal definitions of Ο, Θ, and Ω and how they describe the amount of work done by an algorithm.
   - Learned to use big O notation to define asymptotic upper bounds on time and space complexity of algorithms.
-  - Learned to describe and implement advanced algorithms, including dynamic-programming, greedy, and divide-and-conquer algorithms.
+  - Learned to describe and implement advanced algorithms such as dynamic-programming, greedy, and divide-and-conquer algorithms.
 </details>
 <h4>5️⃣ Fall Semester 2021-2022</h4>
 <details>
   <summary>CSE 381: Systems II</summary>
   
   - Learned to carry out the key steps in loading and starting an operating system.
-  - Learned to critique the design and tradeoffs in file systems and computer memory hierarchy and their interfaces.
-  - Learned to use multiprocessing and Inter-Process Communication (IPC) concepts and tools, including pipes to monitor and control processes.
+  - Learned to critique the design and tradeoffs in file systems and computer memory hierarchy levels.
+  - Learned to use multiprocessing and inter-process communication (IPC) concepts and tools such as pipes to monitor and control processes.
   - Learned to use concurrency and multithreaded programming concepts to create processes with multiple cooperating threads in ways that avoid deadlock.
-  - Learned to use virtualization and cloud services.
-  - Learned to use various security features provided by an operating system to avoid common security problems such as buffer overflow, stack smashing, trojans, and root kit problems.
+  - Learned about virtualization and cloud services.
+  - Learned about security features provided by an operating system to avoid common security problems such as buffer overflow, stack smashing, trojans, and root kit problems.
 </details>
 <details>
   <summary>CSE 383: Web Application Programming</summary>
   
-  - Learned technologies needed to implement web applications, including HTML, CSS, JavaScript, and AJAX.
+  - Learned technologies needed to implement web applications such as HTML, CSS, JavaScript, and AJAX.
   - Learned the nature of web applications, frameworks, and various architectures, including the role of the client and backend servers, and how they interrelate.
   - Learned to create interactive web applications using forms and other user input methods to gather and present data.
   - Learned to develop responsive web applications.
   - Learned concepts related to using databases.
   - Learned concepts of MVC and templating in the creation of web applications.
-  - Learned to describe and implement error handling conditions as they relate to network programming.
+  - Learned to implement error handling conditions in relation to network programming.
 </details>
 <h4>6️⃣ Spring Semester 2021-2022</h4>
 <details>
@@ -159,19 +159,19 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to utilize SQL to query a database.
   - Learned the syntax and semantics of SQL statements.
   - Learned to use views in relational systems.
-  - Learned to utilize a commercial relational database management system that supports SQL (SQL Server).
+  - Learned to utilize a commercial relational database management system (SQL Server) that supports SQL.
   - Learned to design a relational database using entity-relationship modeling and diagrams.
   - Learned the concept of normalization in database design.
 </details>
 <details>
   <summary>CSE 465: Comparative Programming Languages</summary>
   
-  - Learned to identify, describe, and compare programming language paradigms, including procedural, object-oriented, functional, declarative/logic, and scripting languages.
+  - Learned to identify, describe, and compare programming language paradigms such as procedural, object-oriented, functional, declarative/logic, and scripting languages.
   - Learned to evaluate tradeoffs between different paradigms considering space efficiency, time efficiency, safety, and power of expression.
   - Programmed software using a language in each of the programming paradigms listed above.
   - Learned the tradeoffs of compiled and interpreted execution models.
   - Learned the phases of program translation from source code to executable code.
-  - Learned the properties of a variable, including its associated address, value, score, persistence, and size.
+  - Learned the properties of a variable such as its associated address, value, score, persistence, and size.
   - Learned the tradeoffs of different lifetime management approaches such as reference counting and garbage collection.
   - Learned the difference between call-by-value, call-by-value/result, call-by-reference, and call-by-name parameter passing.
   - Learned to specify selected features of programming language syntax using standard grammatical notations.
@@ -183,29 +183,29 @@ Further, Miami was ranked second nationally among public universities in "Underg
   
   - Learned the definition, scope, and objective of cybersecurity.
   - Explored current cybersecurity trends, including data breaches, targeted ransomware, and insider threats.
-  - Learned fundamental cybersecurity concepts, including the CIA triad (confidentiality, integrity, and availability), attack vectors, defense points, and controls.
-  - Learned fundamental cryptography concepts, including the caesar and vignette ciphers, symmetric and asymmetric encryption, hashing, OpenSSL, and GPG.
+  - Learned fundamental cybersecurity concepts such as the CIA triad (confidentiality, integrity, and availability), attack vectors, defense points, and controls.
+  - Learned fundamental cryptography concepts and tools such as the caesar and vignette ciphers, symmetric and asymmetric encryption, hashing, OpenSSL, and GPG.
 </details>
 <details>
   <summary>CSE 382: Mobile Application Development</summary>
   
   - Learned to use Xamarin to build cross-platform mobile applications.
-  - Learned to use an IDE (Visual Studio) to develop, debug, and test cross-platform mobile applications.
+  - Learned to use Visual Studio to develop, debug, and test cross-platform mobile applications.
   - Learned the tradeoffs of cross-platform development and native development.
-  - Learned to use graphical elements to acquire user input and display data, including entries, buttons, labels, and ListViews.
+  - Learned to use graphical elements to acquire user input and display data.
   - Learned to develop mobile applications that support different form factors such as phone or tablet and orientations such as landscape or portrait.
-  - Learned to use common navigation patterns, including tabbed, carousel, and stack navigation.
+  - Learned to use common navigation patterns such as tabbed, carousel, and stack navigation.
   - Learned to use asynchronous processing to provide a responsive interface.
   - Learned the basic security aspects of mobile applications.
   - Learned to implement mobile applications that permanently store data, including through a local database, the app’s file system, and the app’s preferences.
   - Learned to implement mobile applications that use internet resources, including using web services to retrieve information from an internet resource through a standard data interchange format (JSON).
-  - Learned to implement mobile applications that access the device’s hardware, including the GPS, accelerometer, and camera.
+  - Learned to implement mobile applications that access the device’s hardware such as the GPS, accelerometer, and camera.
 </details>
 <details>
   <summary>CSE 448: Senior Design Project</summary>
   
   - Learned to solve an open-ended problem as part of a team utilizing software engineering tools and methods.
-  - Learned to develop the necessary written and oral communication skills needed to communicate effectively with both technical and non-technical audiences.
+  - Practiced the necessary written and oral communication skills needed to communicate effectively with both technical and non-technical audiences.
   - Learned to perform various roles as part of a team.
   - Learned to apply engineering ethics and professionalism in project management.
 </details>
@@ -213,7 +213,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   <summary>CSE 470G: Cloud Computing and DevOps</summary>
   
   - Learned the definition, scope, and objective of DevOps.
-  - Learned fundamental DevOps concepts, including virtualization, containerization, and continuous integration (CI).
+  - Learned fundamental DevOps concepts such as virtualization, containerization, and continuous integration (CI).
   - Learned to use DevOps automation tools such as Bash scripts, Docker, GitLab CI/CD, Ansible, Nagios, Puppet, and Terraform.
   - Learned to use cloud computing platforms such as AWS and OpenStack.
 </details>
