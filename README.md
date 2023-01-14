@@ -167,20 +167,56 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <details>
   <summary>CSE 465: Comparative Programming Languages</summary>
   
-  
+  - Learned to identify, describe, and compare programming language paradigms, including procedural, object-oriented, functional, declarative/logic, and scripting languages.
+  - Learned to evaluate tradeoffs between different paradigms considering space efficiency, time efficiency, safety, and power of expression.
+  - Programmed software using a language in each of the programming paradigms listed above.
+  - Learned the tradeoffs of compiled and interpreted execution models.
+  - Learned the phases of program translation from source code to executable code.
+  - Learned the properties of a variable, including its associated address, value, score, persistence, and size.
+  - Learned the tradeoffs of different lifetime management approaches such as reference counting and garbage collection.
+  - Learned the difference between call-by-value, call-by-value/result, call-by-reference, and call-by-name parameter passing.
+  - Learned to specify selected features of programming language syntax using standard grammatical notations.
+  - Learned to specify selected features of programming language semantics using operational semantics, denotational semantics, and axiomatic semantics.
 </details>
 <h4>7️⃣ Fall Semester 2022-2023</h4>
 <details>
   <summary>CSE 167: Intro to Cybersecurity</summary>
+  
+  - Learned the definition, scope, and objective of cybersecurity.
+  - Explored current cybersecurity trends, including data breaches, targeted ransomware, and insider threats.
+  - Learned fundamental cybersecurity concepts, including the CIA triad (confidentiality, integrity, and availability), attack vectors, defense points, and controls.
+  - Learned fundamental cryptography concepts, including the caesar and vignette ciphers, symmetric and asymmetric encryption, hashing, OpenSSL, and GPG.
 </details>
 <details>
-  <summary>CSE 382: Mobile App Development</summary>
+  <summary>CSE 382: Mobile Application Development</summary>
+  
+  - Learned to use Xamarin to build cross-platform mobile applications.
+  - Learned to use an IDE (Visual Studio) to develop, debug, and test cross-platform mobile applications.
+  - Learned the tradeoffs of cross-platform development and native development.
+  - Learned to use graphical elements to acquire user input and display data, including entries, buttons, labels, and ListViews.
+  - Learned to develop mobile applications that support different form factors such as phone or tablet and orientations such as landscape or portrait.
+  - Learned to use common navigation patterns, including tabbed, carousel, and stack navigation.
+  - Learned to use asynchronous processing to provide a responsive interface.
+  - Learned the basic security aspects of mobile applications.
+  - Learned to implement mobile applications that permanently store data, including through a local database, the app’s file system, and the app’s preferences.
+  - Learned to implement mobile applications that use internet resources, including using web services to retrieve information from an internet resource through a standard data interchange format (JSON).
+  - Learned to implement mobile applications that access the device’s hardware, including the GPS, accelerometer, and camera.
 </details>
 <details>
   <summary>CSE 448: Senior Design Project</summary>
+  
+  - Learned to solve an open-ended problem as part of a team utilizing software engineering tools and methods.
+- Learned to develop the necessary written and oral communication skills needed to communicate effectively with both technical and non-technical audiences.
+- Learned to perform various roles as part of a team.
+- Learned to apply engineering ethics and professionalism in project management.
 </details>
 <details>
-  <summary>CSE 470G: Cloud Computing and DevOps</summary>
+  <summary>CSE 470G: Cloud Computing and Development Operations</summary>
+  
+  - Learned the definition, scope, and objective of DevOps.
+- Learned fundamental DevOps concepts, including virtualization, containerization, and continuous integration (CI).
+- Learned to use DevOps automation tools such as Bash scripts, Docker, GitLab CI/CD, Ansible, Nagios, Puppet, and Terraform.
+- Learned to use cloud computing platforms such as AWS and OpenStack.
 </details>
 <h4>8️⃣ Spring Semester 2022-2023</h4>
 <p><i>[In progress]</i></p>
