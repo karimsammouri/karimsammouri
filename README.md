@@ -3,7 +3,7 @@
 <h2>👨🏻‍💻 Featured Projects</h2>
 
 <h2>🙋🏻‍♂️ About Me</h2>
-<img src="https://i.insider.com/5d3ac96e8d664203f053b222?width=700" alt="Saudi Arabia's capital">
+<img src="https://i.insider.com/5d3ac96e8d664203f053b222?width=700" alt="Saudi Arabia's capital" height="250">
 <p>
 Born December 21, 2001 in the capital of Saudi Arabia, I grew up in a diverse household. My father moved to Saudi with his parents from Lebanon when he was eight. My mother traveled to Saudi from the Philippines during her thirties to meet the high-demand for licensed nurses. Growing up, I attended “international” institutions from kindergarten to high school. It was the norm to have over ten nationalities represented in every classroom. As I grew older and more globally aware, I realized how privileged I was to have such a relatively unique and dynamic upbringing. My life required me to work with diversity and adapt to change, preparing me for a diverse and dynamic world.
 
@@ -13,7 +13,7 @@ I took the American-based SAT during my senior year. After I scored in the 99th 
 </p>
 
 <h2>🎓 Education</h2>
-<img src="http://miamioh.edu/_files/images/about-miami/banner-images/sundial-maccracken.jpg" alt="Miami University's MacCracken Hall">
+<img src="http://miamioh.edu/_files/images/about-miami/banner-images/sundial-maccracken.jpg" alt="Miami University's MacCracken Hall" height="250">
 <h3>Bachelor of Science (B.S.) in Computer Science</h3>
 <p>
 Miami University is a public research university in Oxford, Ohio. The university was founded in 1809, making it the second-oldest university in Ohio and the 10th oldest public university in the 
