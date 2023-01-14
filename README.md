@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my GitHub!</h1>
 
 <h2>👨🏻‍💻 Featured Projects</h2>
+<p><i>[Under construction]</i></p>
 
 <h2>🙋🏻‍♂️ About Me</h2>
 <p>
