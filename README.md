@@ -60,6 +60,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <details>
   <summary>CSE 271: Object-Oriented Programming</summary>
   
+  - <a href="https://github.com/karimsammouri/MU-CSE-271">View course projects</a>
   - Learned to design and implement computer programs using Java and object-oriented programming techniques such as objects, classes, methods, abstraction, encapsulation, inheritance, and polymorphism.
   - Learned to write UML class diagrams and break a programming problem down into an appropriate set of classes and methods based on a problem statement.
   - Learned to write robust programs with input validation and an emphasis on exhaustive testing through concepts learned in CSE 174.
@@ -82,6 +83,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <details>
   <summary>CSE 274: Data Abstractions and Structures</summary>
   
+  - <a href="https://github.com/karimsammouri/MU-CSE-274">View course projects</a>
   - Learned to use the appropriate data structures, abstract data types, and algorithmic methods to solve a given problem.
   - Learned the features and semantics of abstract data types such as matrices, lists, stacks, queues, sets, maps, trees, graphs, and priority queues.
   - Learned the features and semantics of major data structures such as array-based lists, linked lists, hash tables, binary search trees, heaps, and graphs.
@@ -94,6 +96,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <details>
   <summary>CSE 278: Systems I</summary>
   
+  - <a href="https://github.com/karimsammouri/MU-CSE-278">View course projects</a>
   - Learned to develop programs using a high level, systems programming language (C++) in a Linux environment.
   - Learned about the properties of various computer architectures including their components and functions.
   - Learned to analyze the salient aspects of machine instructions and memory addressing modes.
@@ -124,6 +127,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <details>
   <summary>CSE 374: Algorithms I</summary>
   
+  - <a href="https://github.com/karimsammouri/MU-CSE-374">View course projects</a>
   - Learned to characterize the runtime and storage requirements of a proposed algorithm or data structure.
   - Learned to determine the time and space complexity of algorithms.
   - Learned the formal definitions of Ο, Θ, and Ω and how they describe the amount of work done by an algorithm.
@@ -134,6 +138,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <details>
   <summary>CSE 381: Systems II</summary>
   
+  - <a href="https://github.com/karimsammouri/MU-CSE-381">View course projects</a>
   - Learned to carry out the key steps in loading and starting an operating system.
   - Learned to critique the design and tradeoffs in file systems and computer memory hierarchy levels.
   - Learned to use multiprocessing and inter-process communication (IPC) concepts and tools such as pipes to monitor and control processes.
@@ -144,6 +149,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <details>
   <summary>CSE 383: Web Application Programming</summary>
   
+  - <a href="https://github.com/karimsammouri/MU-CSE-383">View course projects</a>
   - Learned technologies needed to implement web applications such as HTML, CSS, JavaScript, and AJAX.
   - Learned the nature of web applications, frameworks, and various architectures, including the role of the client and backend servers, and how they interrelate.
   - Learned to create interactive web applications using forms and other user input methods to gather and present data.
@@ -191,6 +197,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <details>
   <summary>CSE 382: Mobile Application Development</summary>
   
+  - <a href="https://github.com/karimsammouri/MU-CSE-382">View course projects</a>
   - Learned to use Xamarin to build cross-platform mobile applications.
   - Learned to use Visual Studio to develop, debug, and test cross-platform mobile applications.
   - Learned the tradeoffs of cross-platform development and native development.
