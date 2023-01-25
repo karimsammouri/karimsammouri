@@ -6,6 +6,16 @@
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Final%20Project%20-%20FormulaStandings">View project</a>
 </details>
+<details>
+  <summary>Personal Website</summary>
+  
+  - <a href="https://github.com/karimsammouri/portfolio">View project</a>
+</details>
+<details>
+  <summary>MapQuest Navigation Web Application</summary>
+  
+  - <a href="https://github.com/karimsammouri/MU-CSE-383/tree/main/Final">View project</a>
+</details>
 
 <h2>🙋🏻‍♂️ About Me</h2>
 <p>
