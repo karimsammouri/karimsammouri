@@ -2,7 +2,7 @@
 
 <h2>👨🏻‍💻 Featured Projects</h2>
 <details>
-  <summary>FormulaStandings: Formula One™️ Companion Mobile App</summary>
+  <summary>Formula One™️ Companion Mobile App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Final%20Project%20-%20FormulaStandings">View project</a>
 </details>
