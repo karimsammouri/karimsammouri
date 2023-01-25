@@ -7,7 +7,7 @@
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Final%20Project%20-%20FormulaStandings">View project</a>
 </details>
 <details>
-  <summary>Personal Website</summary>
+  <summary>Personal Website and Portfolio</summary>
   
   - <a href="https://github.com/karimsammouri/portfolio">View project</a>
 </details>
@@ -15,6 +15,21 @@
   <summary>MapQuest Navigation Web Application</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-383/tree/main/Final">View project</a>
+</details>
+<details>
+  <summary>Custom Multithreaded Linux Shell</summary>
+  
+  - <a href="https://github.com/karimsammouri/MU-CSE-381/tree/main/Project05">View project</a>
+</details>
+<details>
+  <summary>Console MySQL RDBMS Interface</summary>
+  
+  - <a href="https://github.com/karimsammouri/MU-CSE-278/tree/main/Project04">View project</a>
+</details>
+<details>
+  <summary>Desktop Checkers Game</summary>
+  
+  - <a href="https://github.com/karimsammouri/MU-CSE-271/tree/main/Project04">View project</a>
 </details>
 
 <h2>🙋🏻‍♂️ About Me</h2>
