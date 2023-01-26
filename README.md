@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub!</h1>
 
-<h2>👨🏻‍💻 Featured Projects</h2>
+<h2>Featured Projects</h2>
 <details>
   <summary>Formula One® Companion Mobile App</summary>
   
@@ -32,7 +32,7 @@
   - <a href="https://github.com/karimsammouri/MU-CSE-271/tree/main/Project04">View project</a>
 </details>
 
-<h2>🙋🏻‍♂️ About Me</h2>
+<h2>About Me</h2>
 <p>
 Born December 21, 2001 in the capital of Saudi Arabia, I had a diverse upbringing. My father moved to Saudi from Lebanon when he was eight. My mother traveled to Saudi from the Philippines after obtaining her nursing degree to meet the demand for nurses in Saudi. Growing up, I attended private international institutions from kindergarten to high school. It was the norm to have over ten nationalities represented in every class. As I grew more globally aware, I realized how privileged I was to have had such a dynamic upbringing. My life required me to work with diversity and adapt to change, preparing me for a globalized and dynamic world.
 
@@ -41,7 +41,7 @@ To stop me from using his work laptop to play games, my father bought me a Toshi
 I took the American-based SAT during my senior year. After I scored in the 99th percentile with a score of 1540/1600, I applied to America’s top colleges. Reading my acceptance letter and full-tuition scholarship offer to attend Miami University of Ohio, I knew something big was ahead. Adjusting to the new people, culture, language, etiquettes, and the American way of life upon coming to America was almost effortless. My upbringing prepared me for it, and here I am now.
 </p>
 
-<h2>🎓 Education</h2>
+<h2>Education</h2>
 <img src="https://github.com/karimsammouri/karimsammouri/blob/main/MiamiLogo.png" alt="Miami University">
 <h3>Bachelor of Science (B.S.) in Computer Science</h3>
 <p>
@@ -303,7 +303,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - After receiving a free one-month trial on LinkedIn Learning my freshman year at Miami, I tried to maximize the opportunity. This course caught my eye as I had just finished CSE 271: Object-Oriented Programming and thought it would be a good Java refresher. I received my certification on June 2020.
 </details>
 
-<h2>🤝🏼 Let's connect</h2>
+<h2>Let's connect</h2>
 <p>
 Personal website: <a href="https://karimsammouri.com/">karimsammouri.com</a>
 
