@@ -52,9 +52,9 @@ Miami is a large, primarily residential teaching university with a focus on unde
 
 Further, Miami was ranked second nationally among public universities in "Undergraduate Engineering Program - No Doctorate," excluding military institutions.
 </p>
-<h3>📚 Computing Courses I've Taken</h3>
+<h3>Computing Courses I've Taken</h3>
 <p><i>Click a class to see details</i></p>
-<h4>1️⃣ Fall Semester 2019-2020</h4>
+<h4>Fall Semester 2019-2020</h4>
 <details>
   <summary>CEC 101: Computing, Engineering, and Society</summary>
   
@@ -75,7 +75,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to compare algorithms with respect to their efficiency and readability.
   - Learned to use Java’s API documentation.
 </details>
-<h4>2️⃣ Spring Semester 2019-2020</h4>
+<h4>Spring Semester 2019-2020</h4>
 <details>
   <summary>CSE 102: Intro to Computer Science and Software Engineering</summary>
   
@@ -100,7 +100,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to describe, implement, and compare non-recursive and recursive sorting algorithms such as bubble sort, insertion sort, selection sort, merge sort, and quick sort.
   - Learned to design and develop event-driven applications with a graphical user interface using Java Swing
 </details>
-<h4>3️⃣ Fall Semester 2020-2021</h4>
+<h4>Fall Semester 2020-2021</h4>
 <details>
   <summary>CSE 262: Technology, Ethics, and Global Society</summary>
   
@@ -136,7 +136,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to use SQL statements to manipulate a simple database, including the use of APIs to access a database from a program.
   - Learned to use appropriate system tools, including those from a command line interface.
 </details>
-<h4>4️⃣ Spring Semester 2020-2021</h4>
+<h4>Spring Semester 2020-2021</h4>
 <details>
   <summary>CSE 201: Intro to Software Engineering</summary>
   
@@ -163,7 +163,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to use big O notation to define asymptotic upper bounds on time and space complexity of algorithms.
   - Learned to describe and implement advanced algorithms such as dynamic-programming, greedy, and divide-and-conquer algorithms.
 </details>
-<h4>5️⃣ Fall Semester 2021-2022</h4>
+<h4>Fall Semester 2021-2022</h4>
 <details>
   <summary>CSE 381: Systems II</summary>
   
@@ -187,7 +187,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned concepts of MVC and templating in the creation of web applications.
   - Learned to implement error handling conditions in relation to network programming.
 </details>
-<h4>6️⃣ Spring Semester 2021-2022</h4>
+<h4>Spring Semester 2021-2022</h4>
 <details>
   <summary>CSE 385: Database Systems</summary>
   
@@ -214,7 +214,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to specify selected features of programming language syntax using standard grammatical notations.
   - Learned to specify selected features of programming language semantics using operational semantics, denotational semantics, and axiomatic semantics.
 </details>
-<h4>7️⃣ Fall Semester 2022-2023</h4>
+<h4>Fall Semester 2022-2023</h4>
 <details>
   <summary>CSE 167: Intro to Cybersecurity</summary>
   
@@ -255,7 +255,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to use DevOps automation tools such as Bash scripts, Docker, GitLab CI/CD, Ansible, Nagios, Puppet, and Terraform.
   - Learned to use cloud computing platforms such as AWS and OpenStack.
 </details>
-<h4>8️⃣ Spring Semester 2022-2023</h4>
+<h4>Spring Semester 2022-2023</h4>
 <details>
   <summary>CSE 321: Software Quality Assurance</summary>
   
