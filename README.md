@@ -277,7 +277,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   <p><i>[In progress]</i></p>
 </details>
 
-<h2>🪪 Certifications</h2>
+<h2>Certifications</h2>
 <details>
   <summary>Harvard’s CS50: Introduction to Computer Science</summary>
   
