@@ -27,9 +27,14 @@
   - <a href="https://github.com/karimsammouri/MU-CSE-278/tree/main/Project04">View project</a>
 </details>
 <details>
-  <summary>Desktop Checkers Game</summary>
+  <summary>Java Checkers Desktop App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-271/tree/main/Project04">View project</a>
+</details>
+<details>
+  <summary>Java Address Book Desktop App</summary>
+  
+  - <a href="https://github.com/karimsammouri/MU-CSE-271/tree/main/Lab08">View project</a>
 </details>
 
 <h2>About Me</h2>
