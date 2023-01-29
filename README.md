@@ -6,6 +6,12 @@
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Final%20Project%20-%20FormulaStandings">View project</a>
 </details>
+</details>
+<details>
+  <summary>Running Log Mobile App</summary>
+  
+  - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project04%20-%20Running%20Log">View project</a>
+</details>
 <details>
   <summary>Investment Calculator Mobile App</summary>
   
