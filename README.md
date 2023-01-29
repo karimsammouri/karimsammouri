@@ -7,6 +7,11 @@
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Final%20Project%20-%20FormulaStandings">View project</a>
 </details>
 <details>
+  <summary>US Tax Return Analyzer App</summary>
+  
+  - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project02%20-%20US%20Tax%20Information">View project</a>
+</details>
+<details>
   <summary>Personal Website and Portfolio</summary>
   
   - <a href="https://github.com/karimsammouri/portfolio">View project</a>
