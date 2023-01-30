@@ -17,7 +17,7 @@
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project04%20-%20Running%20Log">View project</a>
   - Built using C#, XAML, and Microsoft's Xamarin.Forms framework.
-  - Makes use of a local SQLite database, <i>ListView</i>, and user preferences.
+  - Makes use of a local SQLite database, <i>ListViews</i>, and user preferences.
   - Project submission for Miami University's CSE 382: Mobile Application Development.
 </details>
 <details>
@@ -33,6 +33,10 @@
   <summary>US Tax Return Analyzer Mobile App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project02%20-%20US%20Tax%20Information">View project</a>
+  - Analyzes a TSV file containing tax return records for all zip codes in the US and allows the user to either query zip codes with an average tax return equivalent to a given amount or zip codes in a given city-state.
+  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
+  - Makes use of embedded resources, asynchronous processing, file IO, data binding, and <i>ListViews</i>.
+  - Project submission for Miami University's CSE 382: Mobile Application Development.
 </details>
 <details>
   <summary>Personal Website and Portfolio</summary>
