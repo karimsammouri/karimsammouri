@@ -6,8 +6,9 @@
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Final%20Project%20-%20FormulaStandings">View project</a>
   - Built using C#, XAML, and Microsoft's Xamarin.Forms framework.
-  - Calls on the Ergast Developer API for Formula One® race, driver, and constructor data.
-  - Fulfills the final project requirements of Miami University's CSE 382: Mobile Application Development.
+  - Calls on the Ergast Developer API web service for Formula One® race, driver, and constructor data.
+  - Makes use of a local SQLite database, <i>ListViews</i>, and user preferences.
+  - Final project submission for Miami University's CSE 382: Mobile Application Development.
 </details>
 </details>
 <details>
@@ -15,6 +16,7 @@
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project04%20-%20Running%20Log">View project</a>
   - Built using C#, XAML, and Microsoft's Xamarin.Forms framework.
+  - Makes use of a local SQLite database, <i>ListViews</i>, and user preferences.
   - Project submission for Miami University's CSE 382: Mobile Application Development.
 </details>
 <details>
