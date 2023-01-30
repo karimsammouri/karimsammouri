@@ -8,7 +8,7 @@
   - Displays the latest season's race schedule, race results, driver standings, constructor (team) standings, driver information, constructor information, and latest news.
   - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
   - Calls on the Ergast Developer API web service for Formula One® race, driver, and constructor data.
-  - Makes use of a local SQLite database, REST API, JSON, <i>ListViews</i>, and user preferences.
+  - Makes use of a local SQLite database, REST API, JSON, <i>ListViews</i>, user preferences, tab navigation, stack navigation, carousel navigation, images, and sound.
   - Final project submission for Miami University's CSE 382: Mobile Application Development.
 </details>
 </details>
@@ -17,13 +17,17 @@
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project04%20-%20Running%20Log">View project</a>
   - Built using C#, XAML, and Microsoft's Xamarin.Forms framework.
-  - Makes use of a local SQLite database, <i>ListViews</i>, and user preferences.
+  - Makes use of a local SQLite database, <i>ListView</i>, and user preferences.
   - Project submission for Miami University's CSE 382: Mobile Application Development.
 </details>
 <details>
   <summary>Investment Calculator Mobile App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project03%20-%20Financial%20Calculator">View project</a>
+  - Performs arithmetic and computes the final investment balance given a starting balance, number of years, rate of return, recurring investment, and the frequency of recurring investment.
+  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
+  - Makes use of event handlers, grid layout, <i>ResourceDictionary</i>, and <i>Pickers</i>.
+  - Project submission for Miami University's CSE 382: Mobile Application Development.
 </details>
 <details>
   <summary>US Tax Return Analyzer Mobile App</summary>
