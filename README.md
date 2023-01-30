@@ -5,7 +5,8 @@
   <summary>Formula One® Companion Mobile App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Final%20Project%20-%20FormulaStandings">View project</a>
-  - Built using C#, XAML, and Microsoft's Xamarin.Forms framework.
+  - Displays the latest season's race schedule, race results, driver standings, constructor (team) standings, driver information, constructor information, and latest news.
+  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
   - Calls on the Ergast Developer API web service for Formula One® race, driver, and constructor data.
   - Makes use of a local SQLite database, REST API, JSON, <i>ListViews</i>, and user preferences.
   - Final project submission for Miami University's CSE 382: Mobile Application Development.
