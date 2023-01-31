@@ -13,14 +13,6 @@
 </details>
 </details>
 <details>
-  <summary>Running Log Mobile App</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project04%20-%20Running%20Log">View project</a>
-  - Built using C#, XAML, and Microsoft's Xamarin.Forms framework.
-  - Makes use of a local SQLite database, <i>ListViews</i>, and user preferences.
-  - Project submission for Miami University's CSE 382: Mobile Application Development.
-</details>
-<details>
   <summary>Investment Calculator Mobile App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project03%20-%20Financial%20Calculator">View project</a>
