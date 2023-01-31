@@ -33,6 +33,7 @@
 <details>
   <summary>Personal Website and Portfolio</summary>
   
+  - <a href="https://karimsammouri.com/">Visit website</a>
   - <a href="https://github.com/karimsammouri/portfolio">View project</a>
 </details>
 <details>
