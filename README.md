@@ -47,7 +47,7 @@
   - Built using HTML, Javascript, PHP, CSS, the MapQuest API for navigation data, and AWS EC2 for temporary hosting and storage.
   - Makes use of phpLiteAdmin (web-based SQLite), JQuery, AJAX, JSON, and Bootstrap.
   - Final project submission for Miami University's CSE 383: Web Application Programming.
-  - Project requirements emphasize a multi-page/multi-tab web client with an emphasis on responsive design.
+  - Project requirements emphasize a multi-page/multi-tab web client with a focus on responsive design.
 </details>
 <details>
   <summary>Custom Multithreaded Linux Shell</summary>
