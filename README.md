@@ -36,7 +36,7 @@
   - <a href="https://karimsammouri.com/">Visit website</a>
   - <a href="https://github.com/karimsammouri/portfolio">View project</a>
   - Built using HTML, CSS, Sass, Visual Studio Code, and GitHub Pages for hosting.
-  - Makes use of CSS media queries to ensure website is responsive and dynmically adapts to changing window sizes.
+  - Makes use of CSS <i>Media Queries</i> for page responsiveness and dynamic adaptation to varying window sizes.
 </details>
 <details>
   <summary>MapQuest Navigation Web Application</summary>
