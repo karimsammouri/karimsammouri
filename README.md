@@ -43,9 +43,9 @@
   <summary>MapQuest Navigation Web Application</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-383/tree/main/Final">View project</a>
-  - 
-  - Built using HTML, Javascript, CSS, the MapQuest API for navigation data, and AWS EC2 for temporary hosting and storage.
-  - Makes use of JQuery, AJAX, JSON, and Bootstrap.
+  - Displays navigation directions given two locations from the user. Navigation history is saved and can be retrieved by date.
+  - Built using HTML, Javascript, PHP, CSS, the MapQuest API for navigation data, and AWS EC2 for temporary hosting and storage.
+  - Makes use of phpLiteAdmin (web-based SQLite), JQuery, AJAX, JSON, and Bootstrap.
   - Final project submission for Miami University's CSE 383: Web Application Programming.
   - Project requirements emphasized a multi-page/multi-tab web client with an emphasis on responsive design.
 </details>
