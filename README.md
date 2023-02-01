@@ -9,25 +9,6 @@
   - Makes use of a local SQLite database, REST API, JSON, <i>ListViews</i>, user preferences, tab navigation, stack navigation, carousel navigation, images, and sound.
   - Final project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester.
 </details>
-</details>
-<details>
-  <summary>Investment Calculator Mobile App</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project03%20-%20Financial%20Calculator">View project</a>
-  - Performs arithmetic and computes the final investment balance given a starting balance, number of years, rate of return, recurring investment, and the frequency of recurring investment.
-  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
-  - Makes use of event handlers, grid layout, <i>ResourceDictionary</i>, and <i>Pickers</i>.
-  - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester.
-</details>
-<details>
-  <summary>US Tax Return Analyzer Mobile App</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project02%20-%20US%20Tax%20Information">View project</a>
-  - Analyzes a TSV file containing tax return records for all zip codes in the US and allows the user to either query zip codes with an average tax return equivalent to a given amount or zip codes in a given city-state.
-  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
-  - Makes use of embedded resources, asynchronous processing, file IO, data binding, and <i>ListViews</i>.
-  - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester.
-</details>
 <details>
   <summary>Personal Website and Portfolio</summary>
   
@@ -37,6 +18,24 @@
   - Built using HTML, CSS, Sass, Visual Studio Code, and GitHub Pages for hosting.
   - Makes use of CSS <i>Media Queries</i> for page responsiveness and dynamic adaptation to varying window sizes.
   - Personal project pursued on December 2021.
+</details>
+<details>
+  <summary>Custom Multithreaded Linux Shell</summary>
+  
+  - <a href="https://github.com/karimsammouri/MU-CSE-381/tree/main/Project05">View project</a>
+  - Custom Linux shell with both serial and parallel execution capabilities.
+  - Built using C++.
+  - Makes use of <i>fork()</i> and <i>exec()</i> system calls, I/O streams, and string processing.
+  - Project submission for Miami University's CSE 381: Systems II during the Fall 2021 semester.
+</details>
+<details>
+  <summary>Investment Calculator Mobile App</summary>
+  
+  - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project03%20-%20Financial%20Calculator">View project</a>
+  - Performs arithmetic and computes the final investment balance given a starting balance, number of years, rate of return, recurring investment, and the frequency of recurring investment.
+  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
+  - Makes use of event handlers, grid layout, <i>ResourceDictionary</i>, and <i>Pickers</i>.
+  - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester.
 </details>
 <details>
   <summary>MapQuest Navigation Web App</summary>
@@ -49,13 +48,13 @@
   - Project requirements emphasize a multi-page/multi-tab web client with a focus on responsive design.
 </details>
 <details>
-  <summary>Custom Multithreaded Linux Shell</summary>
+  <summary>US Tax Return Analyzer Mobile App</summary>
   
-  - <a href="https://github.com/karimsammouri/MU-CSE-381/tree/main/Project05">View project</a>
-  - Custom Linux shell with both serial and parallel execution capabilities.
-  - Built using C++.
-  - Makes use of <i>fork()</i> and <i>exec()</i> system calls, I/O streams, and string processing.
-  - Project submission for Miami University's CSE 381: Systems II during the Fall 2021 semester.
+  - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project02%20-%20US%20Tax%20Information">View project</a>
+  - Analyzes a TSV file containing tax return records for all zip codes in the US and allows the user to either query zip codes with an average tax return equivalent to a given amount or zip codes in a given city-state.
+  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
+  - Makes use of embedded resources, asynchronous processing, file IO, data binding, and <i>ListViews</i>.
+  - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester.
 </details>
 <details>
   <summary>MySQL RDBMS Interface Console App</summary>
