@@ -51,6 +51,10 @@
   <summary>Custom Multithreaded Linux Shell</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-381/tree/main/Project05">View project</a>
+  - Custom Linux shell with both serial and parallel execution capabilities.
+  - Built using C++.
+  - Makes use of <i>fork()</i> and <i>exec()</i> system calls, I/O streams, and string processing.
+  - Project submission for Miami University's CSE 381: Systems I.
 </details>
 <details>
   <summary>Console MySQL RDBMS Interface</summary>
