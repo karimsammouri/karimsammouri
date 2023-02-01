@@ -288,7 +288,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <details>
   <summary>CSE 321: Software Quality Assurance</summary>
   
-  <p><i>[In progress]</i></p>
+<!--  <p><i>[In progress]</i></p>
 </details>
 <details>
   <summary>CSE 386: Foundations of Graphics</summary>
@@ -305,6 +305,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   
   <p><i>[In progress]</i></p>
 </details>
+-->
 
 <h2>Certifications</h2>
 <details>
