@@ -54,12 +54,16 @@
   - Custom Linux shell with both serial and parallel execution capabilities.
   - Built using C++.
   - Makes use of <i>fork()</i> and <i>exec()</i> system calls, I/O streams, and string processing.
-  - Project submission for Miami University's CSE 381: Systems I.
+  - Project submission for Miami University's CSE 381: Systems II.
 </details>
 <details>
-  <summary>Console MySQL RDBMS Interface</summary>
+  <summary>MySQL RDBMS Interface Console App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-278/tree/main/Project04">View project</a>
+  - Light-weight interactive console app to interface with a MySQL RDBMS.
+  - Built using C++ and SQL.
+  - Makes use of.
+  - Project submission for Miami University's CSE 278: Systems I
 </details>
 <details>
   <summary>Checkers Game Desktop App</summary>
