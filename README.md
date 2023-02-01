@@ -268,6 +268,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to implement mobile applications that use internet resources, including using web services to retrieve information from an internet resource through a standard data interchange format (JSON).
   - Learned to implement mobile applications that access the device’s hardware such as the GPS, accelerometer, and camera.
 </details>
+<!--
 <details>
   <summary>CSE 448: Senior Design Project</summary>
   
@@ -276,6 +277,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to perform various roles as part of a team.
   - Learned to apply engineering ethics and professionalism in project management.
 </details>
+-->
 <details>
   <summary>CSE 470G: Cloud Computing and DevOps</summary>
   
