@@ -60,7 +60,7 @@
   - <a href="https://github.com/karimsammouri/MU-CSE-278/tree/main/Project04">View project</a>
 </details>
 <details>
-  <summary>Java Checkers Desktop App</summary>
+  <summary>Java Checkers Game App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-271/tree/main/Project04">View project</a>
 </details>
