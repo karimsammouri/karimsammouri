@@ -57,15 +57,6 @@
   - Project submission for Miami University's CSE 278: Systems I during the Fall 2020 semester.
 </details>
 <details>
-  <summary>Investment Calculator Mobile App</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project03%20-%20Financial%20Calculator">View project</a>
-  - Performs arithmetic and computes the final investment balance given a starting balance, number of years, rate of return, recurring investment, and the frequency of recurring investment.
-  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
-  - Makes use of event handlers, grid layout, <i>ResourceDictionary</i>, and <i>Pickers</i>.
-  - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester.
-</details>
-<details>
   <summary>Checkers Game Desktop App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-271/tree/main/Project04">View project</a>
@@ -74,6 +65,15 @@
   - Makes use of <i>JComponents</i>, <i>JPanels</i>, <i>JFrames</i>, <i>ActionListeners</i>, and <i>MouseListeners</i>.
   - Final project submission for Miami University's CSE 271: Object-Oriented Programming during the Spring 2020 semester.
   - Implemented a functioning GUI despite it being optional. Assigned requirements document is provided.
+</details>
+<details>
+  <summary>Investment Calculator Mobile App</summary>
+  
+  - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project03%20-%20Financial%20Calculator">View project</a>
+  - Performs arithmetic and computes the final investment balance given a starting balance, number of years, rate of return, recurring investment, and the frequency of recurring investment.
+  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
+  - Makes use of event handlers, grid layout, <i>ResourceDictionary</i>, and <i>Pickers</i>.
+  - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester.
 </details>
 
 <h2>Education</h2>
