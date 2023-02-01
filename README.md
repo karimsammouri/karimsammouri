@@ -284,11 +284,12 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to use DevOps automation tools such as Bash scripts, Docker, GitLab CI/CD, Ansible, Nagios, Puppet, and Terraform.
   - Learned to use cloud computing platforms such as AWS and OpenStack.
 </details>
+<!-- 
 <h4>Spring Semester 2022-2023</h4>
 <details>
   <summary>CSE 321: Software Quality Assurance</summary>
   
-<!--  <p><i>[In progress]</i></p>
+  <p><i>[In progress]</i></p>
 </details>
 <details>
   <summary>CSE 386: Foundations of Graphics</summary>
