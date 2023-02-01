@@ -1,5 +1,3 @@
-<h1 align="center">Welcome to my GitHub!</h1>
-
 <h2>Featured Projects</h2>
 <details>
   <summary>Formula One® Companion Mobile App</summary>
