@@ -63,7 +63,7 @@
   - Interactive console app to interface with a MySQL RDBMS.
   - Built using C++ and SQL.
   - Makes use of I/O streams and string processing.
-  - Project submission for Miami University's CSE 278: Systems I
+  - Project submission for Miami University's CSE 278: Systems I.
 </details>
 <details>
   <summary>Checkers Game Desktop App</summary>
