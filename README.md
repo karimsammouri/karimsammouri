@@ -38,7 +38,7 @@
   - Makes use of CSS <i>Media Queries</i> for page responsiveness and dynamic adaptation to varying window sizes.
 </details>
 <details>
-  <summary>MapQuest Navigation Web Application</summary>
+  <summary>MapQuest Navigation Web App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-383/tree/main/Final">View project</a>
   - Displays navigation directions given two locations from the user. Navigation history is saved and can be retrieved by date.
