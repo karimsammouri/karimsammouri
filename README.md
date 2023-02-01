@@ -63,6 +63,11 @@
   <summary>Java Checkers Game App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-271/tree/main/Project04">View project</a>
+  - Functional checkers game.
+  - Built using Java and the Swing GUI library.
+  - Makes use of <i>JComponents</i>, <i>JPanels</i>, <i>JFrames</i>, <i>ActionListeners</i>, and <i>MouseListeners</i>.
+  - Final project submission for Miami University's CSE 271: Object-Oriented Programming.
+  - Although implementing a functioning GUI was optional, I nevertheless did it. Assigned requirements document is provided.
 </details>
 
 <h2>Education</h2>
