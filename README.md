@@ -84,7 +84,7 @@
   - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester
 </details>
 
-<h2>Education</h2>
+<!-- <h2>Education</h2>
 <img src="https://github.com/karimsammouri/karimsammouri/blob/main/MiamiLogo.png" alt="Miami University">
 <h3>Bachelor of Science (B.S.) in Computer Science</h3>
 <p>
@@ -276,7 +276,6 @@ United States. In its 2022 national rankings, U.S. News & World Report ranked Mi
   - Learned to implement mobile applications that use internet resources, including using web services to retrieve information from an internet resource through a standard data interchange format (JSON).
   - Learned to implement mobile applications that access the device’s hardware such as the GPS, accelerometer, and camera.
 </details>
-<!--
 <details>
   <summary>CSE 448: Senior Design Project</summary>
   
@@ -285,7 +284,6 @@ United States. In its 2022 national rankings, U.S. News & World Report ranked Mi
   - Learned to perform various roles as part of a team.
   - Learned to apply engineering ethics and professionalism in project management.
 </details>
--->
 <details>
   <summary>CSE 470G: Cloud Computing and DevOps</summary>
   
@@ -294,7 +292,6 @@ United States. In its 2022 national rankings, U.S. News & World Report ranked Mi
   - Learned to use DevOps automation tools such as Bash scripts, Docker, GitLab CI/CD, Ansible, Nagios, Puppet, and Terraform.
   - Learned to use cloud computing platforms such as AWS and OpenStack.
 </details>
-<!-- 
 <h4>Spring Semester 2022-2023</h4>
 <details>
   <summary>CSE 321: Software Quality Assurance</summary>
