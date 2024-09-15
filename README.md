@@ -3,85 +3,85 @@
   <summary>RAG-Enabled LLM-Based Threat Modeling Agent</summary>
   
   - <a href="https://github.com/karimsammouri/threat-modeling-agent">View project</a>
-  - Agent that outputs a complete threat model given an unstructured natural-language description of a system.
-  - Built using Python, LangChain, Pinecone, HTML, CSS, and Visual Studio Code.
-  - Makes calls to the OpenAI API for LLM access.
+  - Agent that outputs a complete threat model given an unstructured natural-language description of a system
+  - Built using Python, LangChain, Pinecone, HTML, CSS, and Visual Studio Code
+  - Calls on the the OpenAI API for LLM access
 </details>
 <details>
   <summary>Formula One® Companion Mobile App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Final%20Project%20-%20FormulaStandings">View project</a>
-  - Displays the latest Formula One® season's race schedule, race results, driver standings, constructor (team) standings, driver information, constructor information, and latest news.
-  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
-  - Calls on the Ergast Developer API web service for Formula One® race, driver, and constructor data.
-  - Makes use of a local SQLite database, REST API, JSON, <i>ListViews</i>, user preferences, tab navigation, stack navigation, carousel navigation, images, and sound.
-  - Final project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester.
+  - Displays the latest Formula One® season's race schedule, race results, driver standings, constructor (team) standings, driver information, constructor information, and latest news
+  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio
+  - Calls on the Ergast Developer API web service for Formula One® race, driver, and constructor data
+  - Makes use of a local SQLite database, REST API, JSON, <i>ListViews</i>, user preferences, tab navigation, stack navigation, carousel navigation, images, and sound
+  - Final project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester
 </details>
 <details>
   <summary>Personal Website and Portfolio</summary>
   
   - <a href="https://karimsammouri.com/">Visit website</a>
   - <a href="https://github.com/karimsammouri/portfolio">View project</a>
-  - Details my story and serves as a central hub for my online presence, providing links to my resume, LinkedIn, and GitHub.
-  - Built using HTML, CSS, Sass, Visual Studio Code, and GitHub Pages for hosting.
-  - Makes use of CSS <i>Media Queries</i> for page responsiveness and dynamic adaptation to varying window sizes.
-  - Personal project pursued on December 2021.
+  - Details my story and serves as a central hub for my online presence, providing links to my resume, LinkedIn, and GitHub
+  - Built using HTML, CSS, Sass, Visual Studio Code, and GitHub Pages for hosting
+  - Makes use of CSS <i>Media Queries</i> for page responsiveness and dynamic adaptation to varying window sizes
+  - Personal project pursued on December 2021
 </details>
 <details>
   <summary>Custom Multithreaded Linux Shell</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-381/tree/main/Project05">View project</a>
-  - Custom Linux shell with both serial and parallel execution capabilities.
-  - Built using C++.
-  - Makes use of <i>fork()</i> and <i>exec()</i> system calls, I/O streams, and string processing.
-  - Project submission for Miami University's CSE 381: Systems II during the Fall 2021 semester.
+  - Custom Linux shell with both serial and parallel execution capabilities
+  - Built using C++
+  - Makes use of <i>fork()</i> and <i>exec()</i> system calls, I/O streams, and string processing
+  - Project submission for Miami University's CSE 381: Systems II during the Fall 2021 semester
 </details>
 <details>
   <summary>US Tax Return Analyzer Mobile App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project02%20-%20US%20Tax%20Information">View project</a>
-  - Analyzes a TSV file containing tax return records for all zip codes in the US and allows the user to either query zip codes with an average tax return equivalent to a given amount or zip codes in a given city-state.
-  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
-  - Makes use of embedded resources, asynchronous processing, file IO, data binding, and <i>ListViews</i>.
-  - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester.
+  - Analyzes a TSV file containing tax return records for all zip codes in the US and allows the user to either query zip codes with an average tax return equivalent to a given amount or zip codes in a given city-state
+  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio
+  - Makes use of embedded resources, asynchronous processing, file IO, data binding, and <i>ListViews</i>
+  - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester
 </details>
 <details>
   <summary>MapQuest Navigation Web App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-383/tree/main/Final">View project</a>
-  - Displays navigation directions given two locations from the user. Navigation history is saved and can be retrieved by date.
-  - Built using HTML, Javascript, PHP, CSS, the MapQuest API for navigation data, and AWS EC2 for temporary hosting and storage.
-  - Makes use of phpLiteAdmin (web-based SQLite), JQuery, AJAX, JSON, and Bootstrap.
-  - Final project submission for Miami University's CSE 383: Web Application Programming during the Fall 2021 semester.
-  - Project requirements emphasize a multi-page/multi-tab web client with a focus on responsive design.
+  - Displays navigation directions given two locations from the user. Navigation history is saved and can be retrieved by date
+  - Built using HTML, Javascript, PHP, CSS, the MapQuest API for navigation data, and AWS EC2 for temporary hosting and storage
+  - Makes use of phpLiteAdmin (web-based SQLite), JQuery, AJAX, JSON, and Bootstrap
+  - Final project submission for Miami University's CSE 383: Web Application Programming during the Fall 2021 semester
+  - Project requirements emphasize a multi-page/multi-tab web client with a focus on responsive design
 </details>
 <details>
   <summary>MySQL RDBMS Interface Console App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-278/tree/main/Project04">View project</a>
-  - Interactive console app to interface with a MySQL RDBMS.
-  - Built using C++ and SQL.
-  - Makes use of I/O streams and string processing.
-  - Project submission for Miami University's CSE 278: Systems I during the Fall 2020 semester.
+  - Interactive console app to interface with a MySQL RDBMS
+  - Built using C++ and SQL
+  - Makes use of I/O streams and string processing
+  - Project submission for Miami University's CSE 278: Systems I during the Fall 2020 semester
 </details>
 <details>
   <summary>Checkers Game Desktop App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-271/tree/main/Project04">View project</a>
-  - Functional desktop checkers game.
-  - Built using Java and the Swing GUI library.
-  - Makes use of <i>JComponents</i>, <i>JPanels</i>, <i>JFrames</i>, <i>ActionListeners</i>, and <i>MouseListeners</i>.
-  - Final project submission for Miami University's CSE 271: Object-Oriented Programming during the Spring 2020 semester.
-  - Implemented a functioning GUI despite it being optional. Assigned requirements document is provided.
+  - Functional desktop checkers game
+  - Built using Java and the Swing GUI library
+  - Makes use of <i>JComponents</i>, <i>JPanels</i>, <i>JFrames</i>, <i>ActionListeners</i>, and <i>MouseListeners</i>
+  - Final project submission for Miami University's CSE 271: Object-Oriented Programming during the Spring 2020 semester
+  - Implemented a functioning GUI despite it being optional. Assigned requirements document is provided
 </details>
 <details>
   <summary>Investment Calculator Mobile App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project03%20-%20Financial%20Calculator">View project</a>
-  - Performs arithmetic and computes the final investment balance given a starting balance, number of years, rate of return, recurring investment, and the frequency of recurring investment.
-  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
-  - Makes use of event handlers, grid layout, <i>ResourceDictionary</i>, and <i>Pickers</i>.
-  - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester.
+  - Performs arithmetic and computes the final investment balance given a starting balance, number of years, rate of return, recurring investment, and the frequency of recurring investment
+  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio
+  - Makes use of event handlers, grid layout, <i>ResourceDictionary</i>, and <i>Pickers</i>
+  - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester
 </details>
 
 <h2>Education</h2>
