@@ -1,5 +1,13 @@
 <h2>Featured Projects</h2>
 <details>
+  <summary>RAG-Enabled LLM-Based Threat Modeling Agent</summary>
+  
+  - <a href="https://github.com/karimsammouri/threat-modeling-agent">View project</a>
+  - Agent that outputs a complete threat model given an unstructured natural-language description of a system.
+  - Built using Python, LangChain, Pinecone, HTML, CSS, and Visual Studio Code.
+  - Makes calls to the OpenAI API for LLM access.
+</details>
+<details>
   <summary>Formula One® Companion Mobile App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Final%20Project%20-%20FormulaStandings">View project</a>
