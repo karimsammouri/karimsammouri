@@ -84,7 +84,7 @@
   - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester
 </details>
 
-<h2>Education</h2>
+<!-- <h2>Education</h2>
 <img src="https://github.com/karimsammouri/karimsammouri/blob/main/MiamiLogo.png" alt="Miami University">
 <h3>Bachelor of Science (B.S.) in Computer Science</h3>
 <p>
@@ -342,7 +342,7 @@ United States. In its 2022 national rankings, U.S. News & World Report ranked Mi
   
   - <a href="https://www.linkedin.com/learning/certificates/1f8eebe96b3e0686f92730367a13d07b74c9d64478ac57852cc5fd3d3a7be513">View certificate</a>
   - After receiving a free one-month trial on LinkedIn Learning my freshman year at Miami, I tried to maximize the opportunity. This course caught my eye as I had just finished CSE 271: Object-Oriented Programming and thought it would be a good Java refresher. I received my certification on June 2020.
-</details>
+</details> -->
 
 <h2>Let's connect</h2>
 <p>
