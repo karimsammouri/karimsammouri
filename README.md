@@ -89,11 +89,7 @@
 <h3>Bachelor of Science (B.S.) in Computer Science</h3>
 <p>
 Miami University is a public research university in Oxford, Ohio. The university was founded in 1809, making it the second-oldest university in Ohio and the 10th oldest public university in the 
-United States. 
-
-Miami is a large, primarily residential teaching university with a focus on undergraduate studies. In its 2022 national rankings, U.S. News & World Report ranked Miami University fifth among public schools for “Best Undergraduate Teaching.”
-
-Further, Miami was ranked second nationally among public universities in "Undergraduate Engineering Program - No Doctorate," excluding military institutions.
+United States. In its 2022 national rankings, U.S. News & World Report ranked Miami University fifth among public schools for “Best Undergraduate Teaching.” Further, Miami was ranked second nationally among public universities in "Undergraduate Engineering Program - No Doctorate," excluding military institutions.
 </p>
 <h4>Fall Semester 2019-2020</h4>
 <details>
