@@ -84,7 +84,7 @@
   - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester
 </details>
 
-<!-- <h2>Education</h2>
+<h2>Education</h2>
 <img src="https://github.com/karimsammouri/karimsammouri/blob/main/MiamiLogo.png" alt="Miami University">
 <h3>Bachelor of Science (B.S.) in Computer Science</h3>
 <p>
@@ -316,7 +316,6 @@ United States. In its 2022 national rankings, U.S. News & World Report ranked Mi
   
   <p><i>[In progress]</i></p>
 </details>
--->
 
 <h2>Certifications</h2>
 <details>
