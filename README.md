@@ -11,7 +11,7 @@
   <summary>Formula One® Companion Mobile App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Final%20Project%20-%20FormulaStandings">View project</a>
-  - Displays the latest Formula One® season's race schedule, race results, driver standings, constructor (team) standings, driver information, constructor information, and latest news
+  - Mobile app that displays the latest Formula One® season's race schedule, race results, driver standings, constructor (team) standings, driver information, constructor information, and latest news
   - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio
   - Calls on the Ergast Developer API web service for Formula One® race, driver, and constructor data
   - Makes use of a local SQLite database, REST API, JSON, <i>ListViews</i>, user preferences, tab navigation, stack navigation, carousel navigation, images, and sound
@@ -22,7 +22,7 @@
   
   - <a href="https://karimsammouri.com/">Visit website</a>
   - <a href="https://github.com/karimsammouri/portfolio">View project</a>
-  - Details my story and serves as a central hub for my online presence, providing links to my resume, LinkedIn, and GitHub
+  - Website that serves as a central hub for my online presence, providing links to my resume, LinkedIn, and GitHub
   - Built using HTML, CSS, Sass, Visual Studio Code, and GitHub Pages for hosting
   - Makes use of CSS <i>Media Queries</i> for page responsiveness and dynamic adaptation to varying window sizes
   - Personal project pursued on December 2021
@@ -40,7 +40,7 @@
   <summary>US Tax Return Analyzer Mobile App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project02%20-%20US%20Tax%20Information">View project</a>
-  - Analyzes a TSV file containing tax return records for all zip codes in the US and allows the user to either query zip codes with an average tax return equivalent to a given amount or zip codes in a given city-state
+  - Mobile app that analyzes a TSV file containing tax return records for all zip codes in the US and allows the user to either query zip codes with an average tax return equivalent to a given amount or zip codes in a given city-state
   - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio
   - Makes use of embedded resources, asynchronous processing, file IO, data binding, and <i>ListViews</i>
   - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester
@@ -69,7 +69,7 @@
   
   - <a href="https://github.com/karimsammouri/MU-CSE-271/tree/main/Project04">View project</a>
   - Functional desktop checkers game
-  - Built using Java and the Swing GUI library
+  - Built using Java, the Swing GUI library, and Eclipse
   - Makes use of <i>JComponents</i>, <i>JPanels</i>, <i>JFrames</i>, <i>ActionListeners</i>, and <i>MouseListeners</i>
   - Final project submission for Miami University's CSE 271: Object-Oriented Programming during the Spring 2020 semester
   - Implemented a functioning GUI despite it being optional. Assigned requirements document is provided
@@ -78,7 +78,7 @@
   <summary>Investment Calculator Mobile App</summary>
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project03%20-%20Financial%20Calculator">View project</a>
-  - Performs arithmetic and computes the final investment balance given a starting balance, number of years, rate of return, recurring investment, and the frequency of recurring investment
+  - Mobile app that performs arithmetic and computes the final investment balance given a starting balance, number of years, rate of return, recurring investment, and the frequency of recurring investment
   - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio
   - Makes use of event handlers, grid layout, <i>ResourceDictionary</i>, and <i>Pickers</i>
   - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester
