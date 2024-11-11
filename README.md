@@ -1,6 +1,6 @@
 <h2>Featured Projects</h2>
 <details>
-  <summary>RAG-Enabled LLM-Based Threat Modeling Agent</summary>
+  <summary>An LLM-Based Threat Modeling Agent Leveraging CAPEC Semantic Retrieval</summary>
   
   - <a href="https://github.com/karimsammouri/threat-modeling-agent">View project</a>
   - Agent that outputs a complete threat model given an unstructured natural-language description of a system
