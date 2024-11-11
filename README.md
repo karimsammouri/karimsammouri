@@ -1,6 +1,6 @@
 <h2>Featured Projects</h2>
 <details>
-  <summary>LLM-Based Threat Modeling Agent with CAPEC Semantic Retrieval</summary>
+  <summary>LLM-Based Threat Modeling Agent with CAPEC Retrieval</summary>
   
   - <a href="https://github.com/karimsammouri/threat-modeling-agent">View project</a>
   - Agent that outputs a complete threat model given an unstructured natural-language description of a system
