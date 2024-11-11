@@ -3,8 +3,8 @@
   <summary>LLM-Based Threat Modeling Agent with CAPEC Retrieval</summary>
   
   - <a href="https://github.com/karimsammouri/threat-modeling-agent">View project</a>
-  - Agent that outputs a complete threat model given an unstructured natural-language description of a system
-  - Built using Python, LangChain, Pinecone, HTML, CSS, and Visual Studio Code
+  - Agent that generates a threat model given an unstructured natural-language description of a system
+  - Built using Flask (Python) for the backend; Chroma for the vector database and semantic retrieval; HTML, CSS, and Javascript for the frontend; and Visual Studio Code
   - Calls on the the OpenAI API for LLM access
 </details>
 <details>
