@@ -4,7 +4,7 @@
   
   - <a href="https://github.com/karimsammouri/threat-modeling-agent">View project</a>
   - Large language model (LLM)-based agent that generates a threat model given an unstructured natural-language description of a system
-  - Built using Flask (Python) for the backend; Chroma for the vector database and semantic retrieval; HTML, CSS, and Javascript for the frontend; the jsTree jQuery plugin for the interactive tree data representation; and Visual Studio Code
+  - Built using Flask (Python) for the backend; Chroma for the vector database and CAPEC semantic retrieval; HTML, CSS, and Javascript for the frontend; the jsTree jQuery plugin for the interactive tree data representation; and Visual Studio Code
   - Makes multiple calls to OpenAI's GPT-4o for LLM processing.
 </details>
 <details>
