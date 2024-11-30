@@ -20,7 +20,7 @@
 <details>
   <summary>Personal Website and Portfolio</summary>
   
-  - <a href="https://karimsammouri.com/">Visit website</a>
+  - <a href="https://www.karimsammouri.com/">Visit website</a>
   - <a href="https://github.com/karimsammouri/portfolio">View project</a>
   - Website that serves as a central hub for my online presence, providing links to my resume, LinkedIn, and GitHub
   - Built using HTML, CSS, Sass, Visual Studio Code, and GitHub Pages for hosting
