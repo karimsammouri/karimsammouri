@@ -340,9 +340,9 @@ United States. In its 2022 national rankings, U.S. News & World Report ranked Mi
   - After receiving a free one-month trial on LinkedIn Learning my freshman year at Miami, I tried to maximize the opportunity. This course caught my eye as I had just finished CSE 271: Object-Oriented Programming and thought it would be a good Java refresher. I received my certification on June 2020.
 </details> -->
 
-<h2>Let's connect</h2>
+<h2>Let's Connect</h2>
 <p>
-Personal website: <a href="https://karimsammouri.com/">karimsammouri.com</a>
+Personal Website: <a href="https://karimsammouri.com/">karimsammouri.com</a>
 
 LinkedIn: <a href="https://www.linkedin.com/in/karimsammouri/">linkedin.com/in/karimsammouri</a>
 
