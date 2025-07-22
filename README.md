@@ -4,8 +4,8 @@
   
   - <a href="https://github.com/karimsammouri/capec_threat_modeling">View project</a>
   - Large language model (LLM)-based tool that generates a threat model given an unstructured natural-language description of a system
-  - Built using Flask (Python) for the backend; Chroma for the vector database and CAPEC semantic retrieval; HTML, CSS, and Javascript for the frontend; the jsTree jQuery plugin for the interactive tree data representation; and Visual Studio Code
-  - Makes multiple calls to OpenAI's GPT-4o for LLM processing
+  - Built using Flask (Python) for the backend, Chroma for the vector database and CAPEC semantic retrieval, and HTML, CSS, and Javascript for the frontend. Uses the jsTree jQuery plugin for interactive tree-based threat visualization representation.
+  - The tool makes multiple calls to OpenAI's GPT-4o for LLM-based reasoning and processing.
 </details>
 <details>
   <summary>Formula One® Companion Mobile App</summary>
