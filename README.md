@@ -12,7 +12,7 @@
   
   - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Final%20Project%20-%20FormulaStandings">View project</a>
   - Mobile app that displays the latest Formula One® season's race schedule, race results, driver standings, constructor (team) standings, driver information, constructor information, and latest news
-  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio
+  - Built using .NET Xamarin, C#, XAML, and Visual Studio
   - Calls on the Ergast Developer API web service for Formula One® race, driver, and constructor data
   - Makes use of a local SQLite database, REST API, JSON, <i>ListViews</i>, user preferences, tab navigation, stack navigation, carousel navigation, images, and sound
   - Final project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester
